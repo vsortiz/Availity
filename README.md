@@ -1,18 +1,15 @@
 # Availity
 Mirth Interview Project for Availity
 HL7 Gateway Programming Exercise
-The files for this project reside online at the following link as a backup:
-https://www.mediafire.com/folder/27naidd77scsq/Availity
 
-In that link is the Availity.zip file. You will find the following:
-• Availity Homework – Mirth HL7.pdf
-o Answers to questions and project description
-• 5csv.zip
-o the csv files that Component #1 will ingest.
-• HL7 Consumer Mirth v4_5_1.xml
-• HL7 Producer Mirth v4_5_1.xml
+You will find the following:
+1. Availity Homework – Mirth HL7.pdf: Answers to questions and project description.
+2. 5csv.zip - the csv files that Component #1 will ingest.
+3. HL7 Consumer Mirth v4_5_1.xml: Mirth Component #1.
+4. HL7 Producer Mirth v4_5_1.xml: Mirth Component #2.
 
 The project consists of 2 Channels:
+
 Channel 1: HL7 Producer - Component #1. This channel will ingest 5 delimited files from the "in"
 folder, and create 1 HL7 message from each row of data. The result will be 5 HL7 files written to
 the "out" folder. Messages will have a message header (MSH), patient demographics (PID), and
