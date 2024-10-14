@@ -5,8 +5,8 @@ HL7 Gateway Programming Exercise
 You will find the following:
 1. Availity Homework – Mirth HL7.pdf: Answers to questions and project description.
 2. 5csv.zip - the csv files that Component #1 will ingest.
-3. HL7 Consumer Mirth v4_5_1.xml: Mirth Component #1.
-4. HL7 Producer Mirth v4_5_1.xml: Mirth Component #2.
+3. HL7 Producer Mirth v4_5_1.xml: Mirth Component #1.
+4. HL7 Consumer Mirth v4_5_1.xml: Mirth Component #2.
 
 The project consists of 2 Channels:
 
